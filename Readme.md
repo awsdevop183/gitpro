@@ -2,7 +2,7 @@
 
 **Git for DevOps Engineers**
 
-** Git Commands **
+**Git Commands**
 
 git add . or git add file_name
 
