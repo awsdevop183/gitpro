@@ -13,3 +13,9 @@ git log --oneline
 git status
 
 git push origin main
+
+### Use .gitignore file to ignore files and folders
+
+# Level One heading
+## Level Two heading
+### Level Three heading
