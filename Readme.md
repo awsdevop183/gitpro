@@ -19,3 +19,6 @@ git push origin main
 # Level One heading
 ## Level Two heading
 ### Level Three heading
+
+# Rename Git branch Madhu to Jaffa
+git branch -M madhu jaffa
