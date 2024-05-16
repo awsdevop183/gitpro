@@ -4,14 +4,18 @@
 
 **Git Commands**
 
-git add . or git add file_name
+# Add file or files to staging
 
+git add . or git add file_name
+# Use below command to save changes 
 git commit -m "Commit Message"
 
+# Print commit logs in oneline
 git log --oneline
 
+# Use status to check files or status
 git status
-
+# Use push to update changes in remote repository
 git push origin main
 
 ### Use .gitignore file to ignore files and folders
