@@ -22,3 +22,12 @@ git push origin main
 
 # Rename Git branch Madhu to Jaffa
 git branch -M madhu jaffa
+
+
+# Add remote repository to your repository
+
+git remote add origin "url comes here"
+
+# Update remote url 
+
+git remote set-url origin new.git.url/here
