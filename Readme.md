@@ -40,3 +40,24 @@ git remote set-url origin new.git.url/here
 # Use this command if you are 100% sure about what you are doing
 
 git push --force
+
+
+
+# Delete Specific commits 
+### replace pick with drop
+git rebase -i HEAD~6
+
+git rebase --continue
+
+# Dangerous command to delete commits
+
+### --hard deletes the data as well
+### --soft deletes the commit and stages file
+### --mixed deletes the commit and unstages file 
+git reset --hard commit_id
+git reset --soft commit_id
+git reset --mixed commit_id
+
+
+# Squash
+### Squashing is a way to rewrite your commit history; this action helps to clean up and simplify your commit history before sharing your work with team members
