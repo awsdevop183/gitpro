@@ -1,0 +1,22 @@
+[33m035bf36[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m git force commit
+[33m7856f14[m Update Readme
+[33mcb41f4f[m Add branch delete command
+[33m5fec060[m Update readme
+[33me6d25a8[m Turn text into headline
+[33m092d1ba[m Add more git commands
+[33maa08a3e[m Modify Readme.Md
+[33mf829b24[m new message
+[33m7fffca4[m Update Readme
+[33mdf36314[m Update Readme
+[33m42c0318[m Add provider.tf
+[33m132e13c[m Delete old files
+[33mf503453[m Update Readme
+[33m93d5063[m Add ReadMe
+[33m32fcabc[m Add .gitignore
+[33ma2fabac[m Add .gitignore
+[33ma1d36ca[m Add .gitignore
+[33mb27005f[m Terraform tfstate.d
+[33mfc11be9[m Update remote-file.txt
+[33med49dac[m add remote file
+[33m393b784[m Create test.txt
+[33m3e31198[m[33m ([m[1;31morigin/test[m[33m)[m initial commit

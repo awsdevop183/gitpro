@@ -35,3 +35,8 @@ git remote add origin "url comes here"
 # Update remote url 
 
 git remote set-url origin new.git.url/here
+
+# Use force command to forcefully replace commits( be cautious while using this command)
+# Use this command if you are 100% sure about what you are doing
+
+git push --force
