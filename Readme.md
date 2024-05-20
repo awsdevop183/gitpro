@@ -61,3 +61,25 @@ git reset --mixed commit_id
 
 # Squash
 ### Squashing is a way to rewrite your commit history; this action helps to clean up and simplify your commit history before sharing your work with team members
+
+# Git fetch only pulls updates from remote repositoty whereas git pull fetches as well as merges
+
+command: git pull | git fetch | git pull branch_name | git fetch branch_name
+
+# Merge conflicts
+
+# Create feature branch
+
+ git branch feature 
+
+# Create feature branch and switch to it immediately
+
+git checkout feature | git checkout -b feature | git checkout feature
+
+# Delete feature branch
+
+git branch -D feature
+
+# Push new branches to remote repo
+
+git push branch_name
