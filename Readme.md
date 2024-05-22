@@ -83,3 +83,11 @@ git branch -D feature
 # Push new branches to remote repo
 
 git push branch_name
+
+# Git clone specific branch
+
+git clone -b dev repo_url
+
+# Cherry-pick ( use to select and merge specific commit)
+
+git cherry-pick commit_id
