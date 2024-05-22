@@ -91,3 +91,8 @@ git clone -b dev repo_url
 # Cherry-pick ( use to select and merge specific commit)
 
 git cherry-pick commit_id
+
+# Git Stash is used to save temporary work without commiting 
+git stash
+git stash pop
+git stash list
